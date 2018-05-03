@@ -46,3 +46,11 @@ function sum( x, y){
 }
 paul = sum(34, 6);
 console.log(paul);
+
+var x = 2;
+var y = 4;
+var z = x + y;
+console.log(result);
+
+
+var remainder = 11 % 2
